@@ -9,7 +9,7 @@ on:
     #  - caching
 
   #schedule:
-  #  - cron: '28 22 7 10 *'
+  #  - cron: '35 22 7 10 *'
     
 jobs:
   process:
